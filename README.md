@@ -1,6 +1,6 @@
 ## 🚀 Kendrick Lwin 👋
 
-# I am a Computer Science student studying at the Royal Holloway University of London. I am interested in software engineering and artificial intelligence. I enjoy building software projects to get better at coding and software engineering. I am passionate on how technology can positively impact our world. I hope to build software that can help people and solve real world problems!
+# I am a Computer Science student studying at the Royal Holloway University of London. I am interested in software engineering and artificial intelligence. I enjoy building software projects to get better at coding and software engineering. I am passionate about how technology can positively impact our world. I hope to build software that can help people and solve real world problems!
 
 <h3>LinkedIn Profile</h3>
 <a href="https://www.linkedin.com/in/kendrick-lwin/"><img width="75px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/PXyIkWx.png"/></a>
